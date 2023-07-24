@@ -1,15 +1,30 @@
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\bin\Debug\net7.0\ToDo.exe
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\bin\Debug\net7.0\ToDo.deps.json
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\bin\Debug\net7.0\ToDo.runtimeconfig.json
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\bin\Debug\net7.0\ToDo.dll
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\bin\Debug\net7.0\ToDo.pdb
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.csproj.AssemblyReference.cache
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.AssemblyInfoInputs.cache
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.AssemblyInfo.cs
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.csproj.CoreCompileInputs.cache
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.dll
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\refint\ToDo.dll
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.pdb
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ToDo.genruntimeconfig.cache
-D:\DATOS DE USUARIO\Documents\Campus\c#\menu-csharp-bp\obj\Debug\net7.0\ref\ToDo.dll
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/bin/Debug/net7.0/ToDo.exe
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/bin/Debug/net7.0/ToDo.deps.json
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/bin/Debug/net7.0/ToDo.runtimeconfig.json
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/bin/Debug/net7.0/ToDo.dll
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/bin/Debug/net7.0/ToDo.pdb
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.csproj.AssemblyReference.cache
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.dll
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/refint/ToDo.dll
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.pdb
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+D:/DATOS DE USUARIO/Documents/Campus/c#/menu-csharp-bp/obj/Debug/net7.0/ref/ToDo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/bin/Debug/net7.0/ToDo
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/bin/Debug/net7.0/ToDo.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/bin/Debug/net7.0/ToDo.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/bin/Debug/net7.0/ToDo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/bin/Debug/net7.0/ToDo.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/refint/ToDo.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ToDo.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menucsharp/menu-csharp-bp/obj/Debug/net7.0/ref/ToDo.dll
